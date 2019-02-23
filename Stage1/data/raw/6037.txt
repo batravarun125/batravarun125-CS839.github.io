@@ -1,6 +1,0 @@
-URL: http://www.nytimes.com/2016/05/11/science/mercurys-colorful-path-across-the-sun.html
-
-On Monday people had a rare chance to watch Mercury surf across the sun. If you happened to catch the display through a telescope or via a live stream, you saw a black dot inch across a large, bright yellow or white orb. But solar physicists at NASA witnessed a much more colorful display. They watched the Mercury Transit in a rainbow of wavelengths, as you can see above.
-Using two imaging instruments aboard the Solar Dynamics Observatory, which orbits 22,000 miles above Earth, NASA watched Mercury voyage past plasma colored green, gold and crimson in addition to orange, yellow and white.
-The first two filters were taken with a tool that provides information about the sun’s movement and magnetic properties on its surface. The other filters come from an instrument that provides insight into the different components of the sun’s atmosphere. Each color roughly corresponds to a different temperature at which solar material is burning, ranging from thousands to millions of degrees Fahrenheit.
-
