@@ -1,0 +1,12 @@
+URL: http://www.nytimes.com/2016/05/10/nyregion/cut-cables-disrupt-time-warner-phone-and-tv-service.html
+
+Cuts to fiber optic cables caused widespread disruptions to telephone, television and Internet service across the Northeast for several hours on Monday, Time Warner Cable and Cox Communications reported.
+Eric Mangan, a Time Warner spokesman, said the problem, which began in the early afternoon, had stemmed from cables managed by Level 3 Communications, a company that provides Internet infrastructure to several telecommunications companies, including Cox and Time Warner.
+Mr. Mangan said that repairs at Level 3 were “well underway” and that Time Warner had restored service in New York City at 8:45 p.m.
+Mr. Mangan said he did not know how many customers had been affected. He noted that broadcast television channels had not been disrupted.
+Stephanie Walkenshaw, a spokeswoman for Level 3, confirmed in a statement that the company’s network was experiencing disruptions that were “affecting some of our customers with operations in the Northeastern United States due to a fiber cut caused by third-party construction.”
+Shortly after 3 p.m., one of Time Warner’s Twitter accounts told its customers in New York City that the company knew about the problems and that its technicians were investigating.
+The website Downdetector, which uses social-media mapping to detect service interruptions, showed that complaints about Time Warner had spiked online between 2 and 5 p.m. At the peak of the problems, around 3 p.m., Downdetector recorded close to 3,000 complaints.
+Time Warner representatives responded to scores of complaints online, typically telling customers they were aware of the problem and were not sure when it would be fixed.
+One representative, responding to a Manhattan customer whose cable was not working, said: “In outage situations, we are seldomly provided an E.T.A. Once the issue is resolved, your services will resume normal operation there.”
+

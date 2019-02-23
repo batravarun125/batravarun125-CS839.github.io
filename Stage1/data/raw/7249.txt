@@ -1,0 +1,33 @@
+URL: http://www.nytimes.com/2016/05/01/sports/baseball/more-machine-than-man-an-electric-umpires-call-of-the-future.html
+
+One day in March 1950, a batting cage at the Brooklyn Dodgers’ spring training camp in Vero Beach, Fla., became the setting for an event that looked as if it came out of the future: strikes being called not by a man in a mask, peaked cap and chest protector, but by a machine.
+“This was really high-tech stuff,” said pitcher Carl Erskine, recalling the sight of the device during a telephone interview from his Indiana home.
+The so-called “cross-eyed electronic umpire” introduced that day used mirrors, lenses and photoelectric cells beneath home plate that would, after detecting a strike through three slots around the plate, emit electric impulses that illuminated what The Brooklyn Eagle called a “saucy red eye” in a nearby cabinet.
+Popular Science declared, “Here’s an umpire even a Dodger can’t talk back to.”
+The noted British journalist Alistair Cooke, then a foreign correspondent for The Manchester Guardian, weighed in wryly with the “alarming news” that the Dodgers would “try out an electronic umpire in the hope that he will call a decision even the Yankees will not be able to challenge.”
+It was the atomic age, but sports were not known for being technologically advanced. Still, the coming decades saw much more: instant replay, slow motion, the virtual first-down line, real-time score boxes in the corner of television screens, the glowing puck, tennis-ball trackers, video review and baseball’s Pitch f/x and Statcast systems.
+Chris Marinak, Major League Baseball’s senior vice president for league economics and strategy, said that sharp advances in camera and computer technology had accelerated innovation. Statcast, for instance, uses radar and ultra-high-resolution cameras to track what would have been unimaginable in 1950: pitch velocity, spin rate, the exit velocity of home runs and the time between a ball being contacted by a bat and the fielder’s first step toward it.
+Mike Jakob, the president of Sportvision, a leader in developing sports technology, said the electronic umpire “would have been ahead of its time.”
+“It was definitely a novel use of existing technology, using a photoelectric cell to size the strike zone,” he said. “But,” he added, “it couldn’t be used for night games.”
+The machine was championed by Branch Rickey, the Dodgers’ president and part owner, and built during the previous year by a General Electric Company engineering team in Syracuse led by Richard Shea. A 1924 graduate of the Massachusetts Institute of Technology, Shea specialized in semiconductors, did the initial circuit design work for the company’s first transistors and also worked at Knolls Atomic Power Laboratory.
+One account of the genesis of the electronic umpire was that Charles Lare, a Dodgers farmhand who spent the 1948 and 1949 seasons with the Class AAA Montreal Royals, suggested a machine that could record strikes.
+Throughout his baseball career, Rickey was an innovator. While running the St. Louis Cardinals, he developed a chain of minor-league teams that became the modern farm system. He also pioneered a variety of teaching tools, including a set of strings to define the strike zone.
+Most important, of course, his signing of Jackie Robinson ended segregation in the majors in 1947.
+Lee Lowenfish, the author of “Branch Rickey: Baseball’s Ferocious Gentleman,” was unaware of the electronic umpire as a part of Rickey’s résumé.
+“Anything about innovation I can believe about Rickey,” he said in an email. “He made the batting helmets mandatory in Pittsburgh. He innovated the batting cages and pitching strings before World War I while coaching at the University of Michigan.”
+The Dodgers went to Vero Beach after a 1949 season in which they won 97 games but lost to the Yankees in the World Series. In addition to testing the electronic umpire, they were using somewhat more practical tools like batting tees and mechanical pitching machines.
+“I feel that if I can make all our Dodger pitchers stand up there at the pitching machines by the hour, I will make better bunters out of them,” Rickey told The Sporting News. “That could win or lose the pennant.”
+And Rickey — who was pushed out of the Dodgers after the 1950 season — said he had no intention of replacing human umpires with the electronic version. He saw it only as a teaching tool.
+“I’m greatly interested in it,” he was quoted as saying in an article in The Washington Post, “because I’m sure it will be of great aid in making both young hitters and pitchers more conscious of the strike zone.”
+Pee Wee Reese, the Dodgers’ shortstop, was the first to test the electronic umpire.
+Facing him from across home plate were Rickey, Robinson, Duke Snider, Manager Burt Shotton, the umpire Bill Stewart (who wore a Dodgers uniform that day) and Shea. Fans watched from behind a fence. The slots along the width of the plate that allowed the system to see a strike were clearly visible.
+But Reese was not impressed with the judgment of the machine, according to The Post. Indeed, the article said, he “was on the verge of indignation when the gadget ‘called’ a strike on a pitch that passed over the plate several inches below his knees.”
+Stewart said, “I guess you can see that we’re not so bad all the time.”
+Erskine, now 89, recalled that a main purpose of the electronic umpire was to help Snider, his roommate.
+“Duke had trouble with the high fastball — he couldn’t lay off it and he couldn’t hit it,” Erskine said. “So Mr. Rickey would have Duke get in the batting cage and not swing at pitches and let the machine register them. And Duke actually began to learn the strike zone, and he began to hit the high pitches better and lay off the ones he couldn’t hit.”
+Erskine does not remember the electronic umpire lasting long at Vero Beach. “I think it was a very brief experience,” he said.
+The concept of the electronic umpire was revisited last July during two games between the independent San Rafael Pacifics and the Vallejo Admirals as part of a fund-raiser organized by Eric Byrnes, a former major league outfielder.
+Instead of the home plate umpire calling balls and strikes, Sportvision’s Pitch f/x system did the work.
+“It captured the balls and strikes consistently,” Jakob said. “We had a system in the press box that registered the balls and strikes, and Byrnes called them out.”
+Branch Rickey would have enjoyed that.
+

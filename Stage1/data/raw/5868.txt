@@ -1,0 +1,11 @@
+URL: http://www.nytimes.com/2016/05/12/science/see-through-wood.html
+
+This block may look like plastic, but it’s actually wood.
+Using a two-step process, researchers at the University of Maryland, College Park, stripped away the plank’s tan and brown color and made it clear. The see-through wood, which the scientists say is stronger and a better insulator than glass, and more biodegradable than plastic, could one day be used in windows, tables and other building supplies.
+“We were very surprised by how transparent it could go,” said Liangbing Hu, a materials scientist at the university, and an author of a paper that appeared last week in the journal Advanced Materials. “This can really open applications that can potentially replace glass and some optical material.”
+To turn the wood transparent, Dr. Hu and his team first boiled it in a bath of water, sodium hydroxide and other chemicals for about two hours. This removed a molecule called lignin, which gives the wood its color, but left behind its colorless cell structures. The next step was to pour epoxy over the block, which made it four to six times stronger.
+One appealing quality of transparent wood, according to Dr. Hu, is the series of natural channels that run throughout it, remnants from when it was a living tree. The structures, which once pumped water and ions, now direct light along their canals.. Glass and plastic typically do not have passageways like these.
+“In traditional material the light gets scattered,” he said. “If you have this waveguide effect with wood, more light comes into your house.”
+The process is not without its limitations. Size is the big issue, Dr. Hu said. So far the largest blocks they’ve turned clear measured five inches by five inches — about the size of your hand — with thicknesses ranging from paper-thin to a centimeter wide.
+They are currently working on scaling the process to make larger blocks, so any plans for a transparent treehouse may have to wait.
+

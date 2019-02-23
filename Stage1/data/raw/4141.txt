@@ -1,0 +1,18 @@
+URL: http://www.nytimes.com/2016/05/27/arts/design/uffizi-with-indiana-university-will-digitize-ancient-sculptures.html
+
+FLORENCE, Italy — The Uffizi Gallery has started a project in collaboration with Indiana University to digitize its collection of ancient sculpture, with the goal of making it accessible on the web by 2020.
+Students in Indiana University’s new Ph.D program in virtual heritage, along with Italian colleagues here in Florence, will photograph the museum’s collection of ancient Greek and Roman statuary, a total of about 1,250 pieces, between the Uffizi itself and the Pitti Palace and Boboli gardens on the other side of the Arno River.
+The images will be used to create high resolution 3-D models, which are expected to provide a wealth of information on the current state of the statues and past restorations, and allow for various studies to be carried out. Those would include exploring the original polychromies of the sculptures, many of which were painted in lively colors.
+“It will completely change the perception of what ancient sculpture should look like,” Michael A. McRobbie, the president of Indiana University, said at the presentation of the project on Wednesday in Florence.
+Bernard Frischer, a co-director of the Uffizi program and of the Virtual World Heritage Laboratory at Indiana University, described the project as the largest ever undertaken in the field.
+“When we started on Monday, walking through the galleries, I almost fainted, thinking this is overwhelming,” Mr. Frischer said.
+Three-dimensional modeling has advanced greatly since Mr. Frischer digitized the sculpture of the Laocoön in the Vatican Museums 10 years ago, which he said took one year and cost $25,000.
+With developments in digital photography and the adoption of new standards for rendering graphics on web browsers, “my lab went from doing one statue a year to dozens and now to several hundred,” he said. Just on Monday, the day the Uffizi is closed, Indiana students digitized eight statues.
+Recently, such technology has been used to record antiquities and historic sites threatened by war and other dangers, including in the Middle East.
+Like many Italian families, the Medicis, who constructed the Uffizi as offices for the Florentine judiciary, aspired to acquire antiquities and began assembling a collection in the 15th century that includes standout pieces like the Medici Venus, Sleeping Ariadne and the Niobids.
+Mr. McRobbie said the 3-D models would be “freely available online” by the university’s bicentennial in 2020. A complete collection will be stored by both the Uffizi and the university, and a copy will also be stored in the Digital Preservation Network, an initiative created “to address the problem of the long-term preservation of digital images” in the centuries ahead, said Mr. McRobbie, who is also the chairman of the network. Indiana University will foot the $600,000 cost of the project, the Uffizi said in a statement.
+The models could be used to create nearly exact versions through 3-D printing that other institutions could display, in lieu of loans by the Uffizi.
+“Right now, the practice is to send the original; in the future it won’t always be necessary,” said Eike Schmidt, the director of the Uffizi.
+The models will also serve as a “sort of backup copy” of the originals, in the event of war, terrorism and even natural disasters, said Mr. Schmidt, pointing out that just that morning, a section of the road above the embankment of the Arno River had collapsed after an underground water pipe apparently burst.
+“Whatever happens to the original, we will be able to use the models to reconstruct parts for future restorations,” he said.
+

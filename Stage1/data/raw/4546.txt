@@ -1,0 +1,17 @@
+URL: http://www.nytimes.com/2016/05/23/science/a-tiny-robot-that-can-fly-and-amazingly-rest.html
+
+The RoboBee has landed. Well, actually, it has perched, which is even more impressive.
+The RoboBee is an insect-size robot that weighs less than four thousandths of an ounce. And it flies, which is a giant achievement for such a tiny machine.
+Until recently, however, it didn’t perch, and perching is the next frontier for tiny flying machines because robots, like birds, bats and insects, can keep going longer if they conserve energy by resting.
+Most micro aerial vehicles, or MAVs as they are called, are bigger than the RoboBee, but still are measured in inches and ounces rather than feet and pounds. They have power enough to fly for 10 minutes to a half-hour or so, but the tasks they are designed for, like searching for disaster survivors or doing environmental monitoring, require hours of activity, not minutes.
+Nature also encountered the energy demands of flight during the course of evolution. And so it should be no surprise that most flying creatures can rest up high, where they can keep looking for whatever it is they look for — tasty mice, delectable flowers — or just rest.
+They perch one way or another at some time or another. Many birds grip tree branches, bats hang upside down, and insects land on just about anything.
+For robots bigger than the RoboBee, researchers have developed gripping mechanisms, like spikes that shoot into a tree limb or other kind of perch, and aerial anchors that the robot can throw out.
+RoboBee scientists came up with an elegant and, necessarily, lightweight solution involving an adhesive patch on the top of the robot. The trick, which allows the robot to detach from a perch easily, is that the patch is designed for a particular kind of stickiness — electrostatic adhesion.
+Moritz A. Graule, a doctoral student at M.I.T., was working on the perching problem under Robert J. Wood at Harvard, the leader of the team that developed the RoboBee.
+As he and Dr. Wood and other scientists reported Thursday in Science, they attached an electrostatic patch and a bit of foam to the top of the RoboBee and found that the robot attached even to flexible landing spots like leaves. The patch sticks to other materials because current running through it creates an attraction between opposite electric charges.
+Mirko Kovac of the Aerial Robotics Laboratory at Imperial College London, who wrote about the new research and other forms of perching in the same issue of Science, said in an interview that the the use of the foam was a great example of employing “mechanical intelligence.”
+Traditionally, he said, roboticists rely on programming to accomplish a task. The artificial brain of the robot has to have information from many sensors, and must have the power to calculate what it needs to do, such as land softly or grip a branch.
+But a solution that doesn’t require computing power saves weight and energy, particularly important for small robots. The foam cushioned patch will attach to any surface without a jolt so the movement of the robot doesn’t have to be as finely computed.
+The RoboBee is still in development in several ways, however. For instance, it doesn’t have an onboard power source, so it is tethered by the wires that bring electricity. But other researchers are working on that problem, and when they do achieve an untethered robobee, it will be all set to perch on a leaf near you.
+

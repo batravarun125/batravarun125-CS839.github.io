@@ -1,0 +1,14 @@
+URL: http://www.nytimes.com/2016/05/07/us/how-the-chicago-poll-was-conducted.html
+
+The New York Times/Kaiser Family Foundation survey of Chicago is based on interviews conducted April 21 through May 3 with 1,123 adults who live in Chicago.
+SSRS of Media, Pa., conducted sampling, interviewing and tabulation for the survey. Interviews were in English or Spanish.
+The Times and Kaiser both contributed financing for the survey, and teams from both organizations worked together to develop the questionnaire and analyze the data. Each organization is solely responsible for its own interpretation and conclusions.
+The sample of telephone exchanges called, both landline and cellphone, was randomly selected by a computer from a complete list of exchanges in Chicago, maintained by Marketing Systems Group of Horsham, Pa. Within each exchange, random digits were added to form a complete telephone number, thus permitting access to listed and unlisted numbers alike. Within each landline household, one adult was designated by a random procedure to be the respondent for the survey.
+For purposes of analysis, black and Hispanic respondents were oversampled. This involved random dialing in landline exchanges and cellphone areas with high proportions of minority residents, plus interviews with minority households previously interviewed in polls by SSRS. Oversampled groups were then adjusted to their proportion of the population.
+Interviewers made multiple attempts to reach every phone number in the survey, calling back unanswered numbers on different days at different times of both day and evening.
+The combined results have been weighted to adjust for variation in the sample of the Chicago population relating to age, sex, race and ethnicity, education, marital status, and landline versus cellphone service.
+In theory, in 19 cases out of 20, overall results based on such samples will differ by no more than four percentage points in either direction from what would have been obtained by seeking to interview all Chicago adults. This margin of sampling error takes into account the effect of weighting procedures.
+For smaller subgroups, the margin of sampling error is larger. For example, it is plus or minus five percentage points for the 477 black respondents, seven points for the 263 Hispanics, and seven points for the 304 whites.
+In addition to sampling error, the practical difficulties of conducting any survey of the public may introduce other sources of error. Variation in the wording, order and translation of questions, for example, may lead to somewhat different results.
+Complete questions and results are available at nytimes.com/polls.
+

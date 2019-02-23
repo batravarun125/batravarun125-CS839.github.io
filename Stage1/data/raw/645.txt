@@ -1,0 +1,17 @@
+URL: http://www.nytimes.com/2016/06/25/science/scales-feathers-hair-common-ancestor.html
+
+Reptiles have scales. Birds have feathers. Mammals have hair. How did we get them?
+For a long time scientists thought the spikes, plumage and fur characteristic of these groups originated independently of each other. But a study published Friday suggests that they all evolved from a common ancestor some 320 million years ago.
+This ancient reptilian creature — which gave rise to dinosaurs, birds and mammals — is thought to have been covered in scale-like structures. What that creature looked like is not exactly known, but the scales on its skin developed from structures called placodes — tiny bumps of thick tissue found on the surface of developing embryos.
+Scientists had previously found placodes on the embryos of birds and mammals, where they develop into feathers and hairs, but had never found the spots on a reptilian embryo before. The apparent lack of placodes in present-day reptiles fueled controversy about how these features first formed.
+“People were fighting about the fact that reptiles either lost it, or birds and mammals independently developed them,” said Michel C. Milinkovitch, an evolutionary developmental biologist from the University of Geneva in Switzerland and an author of the new paper. “Now we are lucky enough to put this debate to rest, because we found the placodes in all reptiles: snakes, lizards and crocodiles.”
+In their paper, published in the journal Science Advances, Dr. Milinkovitch and his team report the first findings of the anatomical structures in Nile crocodiles, bearded dragon lizards and corn snakes. They concluded that birds, mammals and reptiles all inherited their placodes from the same ancient reptilian ancestor.
+Why did no one find placodes in reptiles before?
+According to Dr. Milinkovitch, it’s because the structures are extremely difficult to spot in developing reptiles. Whereas placodes in avian and mammalian embryos last long enough that they are easy to see, reptilian placodes exist for a brief period of about 12 hours, and pop up on different locations depending on the species.
+“If you don’t look at the right place at the right time you don’t see any,” he said. “If you look too early you see nothing, if you look too late it’s already a scale.”
+Dr. Milinkovitch and his team did not originally set out to find placodes in reptiles; rather they were investigating why certain bearded dragons are born without scales. By analyzing the genomes of the naked bearded dragons, they narrowed down the culprit to a mutation in a single gene, called EDA, which is also known to disrupt placode development in birds and mammals. In humans, EDA gene mutations can lead to Hypohidrotic ectodermal dysplasia, which causes people to develop abnormal teeth, nails and sweat glands.
+“We were like ‘Whoa! That’s the same gene,’” said Dr. Milinkovitch. “There must be a link here because this guy doesn’t have scales, and in birds and mammals when that gene is mutated they don’t have hair or feathers.”
+The clue got the team thinking that maybe reptiles need placodes to make scales and led them to search the microanatomy of reptilian embryos.
+“When we investigated normal snakes, normal crocodiles and normal lizards we found placodes everywhere,” Dr. Milinkovitch said.
+Their findings unite birds, mammals and reptiles as descendants from the same lineage of ancient reptilian creatures that first developed placodes.
+

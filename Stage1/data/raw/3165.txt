@@ -1,0 +1,20 @@
+URL: http://www.nytimes.com/2016/06/04/us/justice-dept-fbi-scientist-forensic-test.html
+
+WASHINGTON — The Justice Department, stung by reports that F.B.I. scientists have often vastly overstated their level of certainty in matching hair samples and other evidence, issued new rules on Friday meant to ensure that the experts’ testimony in criminal cases is “supported by sound science.”
+The new rules, which have yet to be made final, are the latest in a series of steps that the Obama administration has taken to address the problems, including those revealed in a preliminary review last year of F.B.I. testimony in hair-sample cases.
+That analysis, which examined 268 criminal cases from 1985 to 1999, found flawed testimony in more than 95 percent of them. More than a dozen of the defendants have been executed or have died in prison.
+The guidelines issued on Friday provide a framework for F.B.I. testimony involving seven types of forensic evidence, including body fluid, fingerprints and footprints. They seek to inject a more realistic measure of doubt in courtroom testimony.
+No longer, for instance, would F.B.I. forensic witnesses be allowed to testify that there was a “zero error rate” in comparing one fingerprint to another, or that one sample of blood was a certain match to another.
+Instead, they would be required to testify how likely or unlikely a match was found to be, within an “acceptable range of opinions.”
+Once the rules are formally adopted, they “will clarify what scientific statements our forensic experts may — and may not — use when testifying in court and in drafting reports, in turn strengthening the integrity of our system over all,” said Sally Q. Yates, the deputy attorney general.
+A spokesman for the F.B.I. laboratory in Quantico, Va., declined to comment on the guidelines, which would also apply to the Drug Enforcement Administration and the Bureau of Alcohol, Tobacco, Firearms and Explosives.
+While the guidelines are highly technical, the existing rules have had a real-life impact in many criminal cases.
+The Justice Department has offered new testing to hundreds of surviving defendants in cases marred by errors in hair-sample testimony, and a few of them have already been exonerated. The department is continuing to examine whether errors were made in testimony involving other types of forensic evidence as well.
+Peter Neufeld, a founder of the Innocence Project, a defense advocacy group that has pushed for greater scrutiny of F.B.I. forensic methods, said the new guidelines were a welcome step.
+“It’s remarkable that they didn’t do this for many years,” he said. “But frankly, they should be applauded for recognizing that mistakes were made and that they have a duty to correct those mistakes.”
+The Justice Department is giving outside scientists and members of the public a chance to weigh in on the proposal before it is made final later this year.
+Mr. Neufeld said he wished that the Justice Department had brought in outside scientific feedback long before this, rather than relying on in-house specialists. He predicted that outside scientists, once they finish their review of the framework proposed on Friday, would have “significant and substantial concerns.”
+Questions have flared for years over the accuracy of the F.B.I.’s courtroom testimony involving some types of forensic evidence. A 2009 study by the National Research Council found “no scientific support” for positively identifying a suspect from a hair sample, and additional scientific reviews and news media reports since then — most notably in The Washington Post — have raised still more questions.
+The Justice Department plans to release a second set of proposed guidelines this summer regarding courtroom testimony involving DNA, explosive devices, hair analysis and handwriting.
+Scientific experts consider DNA — which first became widely used in courts in the 1990s — to be the only near-certain indicator of a forensic match. While other types of physical evidence are considered helpful in comparing samples and ruling suspects in or out of an investigation, they are considered far less certain.
+

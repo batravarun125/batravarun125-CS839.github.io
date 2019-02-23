@@ -1,0 +1,24 @@
+URL: http://www.nytimes.com/2016/05/14/your-money/fcc-aims-to-stop-rise-in-robocalls-to-those-with-student-loans.html
+
+A NEW law has opened the door for loan servicers and debt collectors to increase automated calls and texts to cellphones, including those of the millions of student loan borrowers struggling to repay their debt.
+The Federal Communications Commission, however, is proposing rules to restrict the number of text messages and automated or prerecorded calls, known as “robocalls,” that may be made to cellphones without the borrowers’ permission.
+The agency aims to limit the number of robocalls and texts made without a consumer’s consent to three a month. Also, the rule would require that debt collectors inform borrowers of their right to request that the calls stop. Consumer groups that support strong protections on automated calls to cellphones applauded the agency’s proposal.
+“The F.C.C. recognizes that allowing calls to be made without consent is a huge danger,” said Margot Saunders, a lawyer with the National Consumer Law Center, one of a dozen consumer groups following the issue closely.
+Ms. Saunders said advocates were pleased that the agency would count each call initiated — even if it isn’t answered — as one call. In addition, the F.C.C. proposes to limit the calls to debts that are delinquent, which would prevent unwanted robocalls to accounts in good standing. (Borrowers who authorize calls from their servicers will continue to receive them. Ms. Saunders said: “Students who want calls can consent.”)
+Under the Telephone Consumer Protection Act, automated calls or texts to a cellphone generally require the consumer’s consent, Ms. Saunders said. But last fall, as part of the federal budget bill, Congress created an exception for collectors of federal debt, including student loans, allowing such calls to be made without the consumer’s permission. The exemption, however, is subject to rules to be set by the F.C.C., which said in its proposal that it sought to “balance the importance of collecting debt owed to the United States and the consumer protections” in the law.
+Consumer groups are following the development of the regulations, to help promote robust protections. “This loophole could open up a flood of these robocalls to cellphones,” said Maureen Mahoney, a policy analyst at Consumers Union.
+Unwanted robocalls are an increasingly vexing problem, in general, because of new technology that makes it easier to initiate automated calls and harder for the authorities to track them.
+Unwanted calls are the subject of more than 1.7 million complaints a year to the Federal Trade Commission.
+Recently, the calls have become a particular problem for cellphone customers, including some who report receiving repeated calls that are actually intended for people who previously had the same cellphone number.
+Consumers can register landlines as well as cellphones on a federal “Do Not Call” list, which restricts calls from telemarketers. But many robocalls are now initiated overseas by companies that are difficult to trace, Ms. Mahoney said. “Consumers are just fed up with robocalls,” she said.
+Student loan debt is also an increasing problem. The average debt for graduating seniors is now nearly $30,000. The federal government makes most student loans, and about a quarter of current federal loan borrowers are delinquent or in default, according to a report last year from the Consumer Financial Protection Bureau.
+Reid Setzer, policy and legislative affairs analyst for Young Invincibles, an advocacy group focusing on young adults, called the F.C.C.’s initial proposal a “positive step for millions of student borrowers affected by excessive, unwanted calls from loan servicers.”
+Here are some questions and answers about cellphone robocalls:
+■ How can I comment on the F.C.C.’s proposed robocalling rules?
+You can submit comments online for the proposal, Proceeding No. 02-278, until June 6.
+■ Where can I complain about unwanted robocalls?
+You can file a complaint online with the F.C.C. The agency also offers consumer tips on its website.
+■ Can I block automated calls to my cellphone?
+Some smartphones offer the ability to block certain calls, either through embedded options or via specialized apps. Consumers Union cites several apps in a report on the problem of robocalling, but has not formally tested their effectiveness.
+Consumers Union is urging telephone companies to deploy better screening technology to help prevent unwanted calls from getting through to customers. The nonprofit is sponsoring an online “End Robocalls” campaign that has attracted more than 600,000 signatures.
+

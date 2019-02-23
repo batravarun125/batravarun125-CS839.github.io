@@ -1,0 +1,28 @@
+URL: http://www.nytimes.com/2016/06/15/upshot/euro-soccer-just-as-good-as-the-world-cup-if-not-better.html
+
+For some American fans, the World Cup is the be-all and end-all of international soccer. There is no close second.
+Across the Atlantic, though, many fans, soccer writers and even some players have contended that the European championships, or Euros, produce better soccer than the World Cup.
+The pro-Euro argument is that many more teams compete in the World Cup, including some from countries that have rarely done well at the international level. This can create too many lopsided games and drag down the overall quality of performance. So while there have been many great games in the World Cup, the thinking goes, the standard of play has been lower on balance.
+There are reasons for assuming this is true. The best players from around the world overwhelmingly play for European clubs, which helps bolster the standard of European players. European national teams have won four of the last five World Cups, and seven of the 10 finalists were European.
+But is the game in fact better when the Europeans play only against one another?
+Before trying to answer that, it is worth acknowledging that there can be no definite conclusion. When played at an elite level, soccer, like art, contains so much that is unquantifiable that it defies numerical ranking and subjective opinion. Saying that Spain plays a better style of game than Argentina is akin to declaring Matisse better than Manet.
+And numbers fail to capture another quality that makes a soccer game compelling — the intensity that often exists when a victory will eliminate the other team, or when two longtime rivals play each other, like Mexico and the United States, or Germany and the Netherlands.
+Still, there exists a wealth of data on soccer games, and it would be a shame not to see how far it can take us.
+Opta, a sports data firm that tracks passes, shots and other plays within games, provided the data for the past five Euros and the past five World Cups. (I have chosen to compare the World Cup with the Euros and not the Copa América, also going on now, and in which the United States is doing well, because Opta has less historical data on the Copa.)
+Selecting metrics to determine quality is tough. Even so, here are six yardsticks that attempt to do that:
+Margin of victory. A smaller margin is better with this one, because if teams win by fewer goals, the games are most likely more competitive and exciting.
+Goals scored. Except for a few purists, we want to see goals.
+Total shots. This is here because we like to see teams put themselves in a position to shoot.
+Successful passes. The bread and butter of good soccer.
+Successful passes in the final third of the field. The passes that matter most when attacking.
+Shots per possession (a period when a team has control of the ball). This matters because possession needs to be turned into an attempt on goal.
+So here’s what the numbers say: Anyone who has ever said the Euros can easily match the World Cup can give themselves a tiny pat on the back, although there is no indication that they are significantly better.
+Comparing five-tournament averages for the Euros (1996 through 2012) and the World Cup (1998 through 2014) shows almost no difference on four of these measures. Passing accuracy was almost identical, with the Euros having 623 successful passes per game on average, versus 634 for the World Cup. In the Euros, 2.42 goals per game were scored, against 2.45 in the World Cup. In both competitions, there was on average 28 shots per game. The Euros had an average of 0.13 shots per possession, compared with 0.14 for the World Cup.
+But the Euros look slightly stronger on two of the yardsticks. Euro games averaged 160 successful passes in the final third, against 151 for the World Cup. And the Euros had a narrower average margin of victory, 1.23 goals, versus 1.33 in the World Cup.
+Comparing the most recent completed Euros, from 2012, with the 2014 World Cup makes the Euros look even better.
+The 2012 Euros had 742 successful passes per game, more than the 2014 World Cup’s 666. When it comes to successful final-third passes, the Euros’ 188 was higher than the World Cup’s 153. The Euros’ margin of victory in 2012 was 1.23 goals, compared with 1.42 goals for the 2014 World Cup. The only yardstick that the World Cup did better on was goals, with the 2014 competition notching 2.63 goals per game, against 2.45 for the 2012 Euros.
+In case Copa América fans are interested, Opta did provide data for the tournament that took place last year. But margin of victory, at 1.12 goals, was the only metric (out of our six) on which the 2015 Copa did better than both the 2014 World Cup and 2012 Euros.
+The big question now, though, is whether the quality of the soccer at the Euros will slip in the current and future tournaments. This year, 24 teams are competing, up from 16 teams in the previous five Euros, allowing potentially weaker teams to compete. (The World Cup has had 32 teams since 1998.)
+The standard of the Euros may decline for another reason: Some teams that are in third place in their starting groups can progress to the knockout stage of the competition.
+The lesson of this exercise? There isn’t enough bad soccer in the international tournaments to discredit them. So, go ahead, watch them all.
+

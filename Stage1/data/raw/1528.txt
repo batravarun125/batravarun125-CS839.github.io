@@ -1,0 +1,12 @@
+URL: http://www.nytimes.com/2016/06/18/business/dealbook/brexit-could-end-londons-reign-as-europes-financial-hub.html
+
+The year is only half over, and already it has been so eventful, and even traumatic.
+The next obvious challenge heading our way is the question of Britain’s exit from the European Union, or Brexit, which will be voted on next week.
+The departure of any nation from the European Union would be significant – as we saw with Greece a few years back, even opening the door to departure would be disruptive. Yet the British case is special. London, after all, is the financial capital of Europe, and along with New York, a major center of global finance in general.
+From the debt side of things, Britain is of particular importance because most debt instruments are either governed by New York law or English law. This is true of traditional debt, as well as debtlike things like swaps, where the International Swaps and Derivatives master agreement calls for a binary choice between these two jurisdictions when picking the applicable law that will govern.
+On the restructuring side, London is the obvious competitor with New York and Delaware as the forum of choice for restructuring global businesses.
+As I have written elsewhere, because Chapter 11 of the bankruptcy code contains few barriers to filing by a foreign corporation, and its results are binding on any financial institution that does business in the United States, it provides a useful tool to restructure global enterprises.
+In Britain, the insolvency law is not so much the attraction as the reliable “scheme of arrangement” process under English corporate law, which can be used to impose the terms of a workout on dissenting creditors. This avoids the holdout problem that so often plagues out-of-court restructurings, and the English courts have been quite willing to bless plans involving companies that have but the slightest connection with Britain.
+Would Brexit change any of this? In the short term, I doubt it would. London would remain an attractive locale for restructuring European companies, even if it were outside the European Union. It is nearby and offers a reliable process.
+In the longer term, however, that could change. If London lost its status as the financial hub of Europe, there presumably would be less of a concentration of banks and lawyers in the City. As a result, the reasons to negotiate a workout in London and present it to a British court would decline. It is one more consideration as we move toward the vote.
+

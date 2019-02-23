@@ -1,0 +1,11 @@
+URL: http://www.nytimes.com/2016/05/07/health/rapid-zika-test-is-introduced-by-researchers.html
+
+A paper-based rapid test for the Zika virus was introduced on Friday by a consortium of research groups.
+The core of the test kit is a piece of paper covered with yellow dots that turn purple in the presence of Zika virus RNA. Although the test is relatively fast and simple, it requires preliminary heating to amplify a sample’s RNA, which can be done in most laboratories.
+The test, which gives results in two to three hours, “is much faster and cheaper than the P.C.R. tests used now,” said James J. Collins, a bioengineer at the Massachusetts Institute of Technology who is one of the test designers.
+It should cost less than $1 per test, said Keith Pardee, a University of Toronto biochemist and another test designer.
+Dr. Collins took a cell’s normal reproductive “machinery” — including proteins, nucleic acids and ribosomes — and freeze-dried it on paper. The work was described in the journal Cell.
+The color change can be read by the eye or by an extra-sensitive scanner that may eventually be able to measure viral loads in the blood sample.
+The test has worked on Zika-infected monkey blood, which was used because human samples were hard to obtain in time. Now, Dr. Collins said, “we’re talking with groups in Colombia and Brazil about testing it in the field.”
+The collaboration also included scientists from Harvard’s Wyss Institute, the Broad Institute, Cornell, Arizona State and Boston University.
+
