@@ -1,5 +1,3 @@
-URL: http://www.nytimes.com/2016/06/30/technology/personaltech/while-limited-wi-fi-first-phones-are-a-good-frugal-bet.html
-
 YOUR household Wi-Fi router has a hidden power: It is also a cellphone service provider. In fact, most mobile data traffic travels through smaller networks like Wi-Fi routers, not those hulking cell towers outside.
 The internet companies Google and Bandwidth.com have turned that little-known fact into a business opportunity. Their mobile phone services rely on cell networks that they lease from traditional carriers, but if a Wi-Fi network has a better connection, they shift phone calls and data over to Wi-Fi instead.
 More often, your Wi-Fi is going to have a stronger data connection, so in tech industry parlance, these phone services are sometimes called “Wi-Fi first.”

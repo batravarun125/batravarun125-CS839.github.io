@@ -1,13 +1,11 @@
-URL: http://www.nytimes.com/2016/06/30/business/daily-stock-market-activity.html
-
 Banks and other financial companies led another broad surge in United States stocks on Wednesday, turning the Dow Jones industrial average and the Standard & Poor’s 500-stock index slightly positive for the year.
 It was a second day of gains for the market, which had been rattled since Friday by investor concerns over Britain’s vote to leave the European Union.
 Those worries appeared to ease on Wednesday. The advance made over Tuesday and Wednesday erased more than half of the losses the American market absorbed in the two-day slide that started on Friday.
 Britain’s stock market has recouped all its losses in the same stretch, but other major markets in Europe and Asia have yet to bounce back.
-“The worries around Brexit are now moving from short-term worries to long-term worries, and that’s why we’re seeing this dramatic rebound in the market,” said Erik Davidson, chief investment officer for Wells Fargo Private Bank.
+“The worries around Brexit are now moving from short-term worries to long-term worries, and that’s why we’re seeing this dramatic rebound in the market,” said <name>Erik Davidson</name>, chief investment officer for Wells Fargo Private Bank.
 The S.&P. 500 index rose 34.68 points, or 1.7 percent, to 2,070. The Nasdaq composite added 87.38 points, or 1.9 percent, to 4,779.25. The Dow gained 284.96 points, or 1.6 percent, to 17,694.68.
 The VIX, a gauge of expectation of future stock volatility, fell 11.3 percent on Wednesday to 16.6. It had hit 25.8 on Friday.
-“The VIX is literally where it was two weeks ago,” said Tom Siomades, head of Hartford Funds’ Investment Consulting Group. He said that it appeared investors had realized “it’s going to take a long time to unwind this thing.”
+“The VIX is literally where it was two weeks ago,” said <name>Tom Siomades</name>, head of Hartford Funds’ Investment Consulting Group. He said that it appeared investors had realized “it’s going to take a long time to unwind this thing.”
 Britain’s benchmark stock index, the FTSE 100, gained 3.6 percent, while the DAX in Germany rose 1.8 percent. The CAC 40 in France added 2.6 percent.
 Earlier, stock markets in Asia closed broadly higher. Japan’s Nikkei 225 index rose 1.6 percent and the South Korean Kospi gained 1 percent. In Hong Kong, the Hang Seng index added 1.3 percent, while the Australian S&P/ASX 200 rose 0.8 percent. Stocks in Taiwan, Singapore and Indonesia also were higher.
 In currency markets, the British pound recovered some of its losses this week but remained near its 31-year low. It rose to $1.3452 from $1.3343 on Tuesday.
