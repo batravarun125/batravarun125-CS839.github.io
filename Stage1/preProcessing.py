@@ -10,7 +10,7 @@ parser.add_argument('--notRemoveStopWords', action='store_true')
 parser.add_argument('--notRemoveDigits', action='store_true')
 #parser.add_argument('--notRemoveStopWords', action='store_true')
 
-parser.add_argument('--dataFile', type=str, help="data file", default='results/TokenizedTest.csv')
+parser.add_argument('--dataFile', type=str, help="data file", default='results/Tokenizedtest.csv')
 parser.add_argument('--verbFile', type=str, help='verbs ', default='../Corpus/verbs.txt')
 parser.add_argument('--countryFile', type=str, help = 'country file', default='../Corpus/countries.txt')
 parser.add_argument('--prepositionsFile', type=str, help = 'prep file', default='../Corpus/prepositions.txt')
@@ -31,7 +31,7 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
     # only filter on `Tokens` col
-    data = pd.read_csv(args.dataFile)
+    data = pd.read_csv(args.dataFile, delimiter='_')
     #Create a DataFrame
     #d = {
     #        'Tokens':['play','is','india','jack','raghu','Cathrine',
