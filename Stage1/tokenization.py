@@ -49,8 +49,8 @@ def get_all_elements(dir_path):
     output_classes = []
     start_tag = '<name>'
     end_tag = '</name>'
-    for fname in listdir(dir_path):
-        fname = os.path.join(dir_path, fname)
+    for filename in listdir(dir_path):
+        fname = os.path.join(dir_path, filename)
         print(fname)
         index = 0
         line_sentences = get_sentences(fname)
@@ -89,7 +89,7 @@ def get_all_elements(dir_path):
                     start_ind.append(i)
                     end_ind.append(i+ngram-1)
                     n_gram_count.append(ngram)
-                    filename_list.append(fname)
+                    filename_list.append(filename)
                     pre_string.append(words[max(0,i-5):i])
                     pos_string.append(words[i+ngram: min(len(words), i+ngram+5)])
                     output_classes.append(actual_class)
