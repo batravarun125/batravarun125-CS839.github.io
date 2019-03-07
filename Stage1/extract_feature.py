@@ -1,7 +1,7 @@
 import pandas as pd
 import string
 import sys
-df = pd.read_csv(sys.argv[1])
+df = pd.read_csv(sys.argv[1],delimiter='_')
 var = "test"
 if sys.argv[1]=='preprocessed_data_train.csv':
     var="train"
@@ -60,11 +60,11 @@ if __name__ == '__main__':
 
 
     for j in range(len(df)):
-        sfile = open('./data/raw_copy/' + df.loc[j]['filename'][-7:])
+        sfile = open(df.loc[j]['filename'])
         ls = sfile.read().split()
-        start = df.loc[j]['start']
-        end = df.loc[j]['end']
-        instance = df.loc[j]["Word"]
+        start = df.loc[j]['start_ind']
+        end = df.loc[j]['end_ind']
+        instance = df.loc[j]["Tokens"]
 
         if start>5:
             prestring = ls[start-5:start]
