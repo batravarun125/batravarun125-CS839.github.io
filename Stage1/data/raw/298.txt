@@ -1,5 +1,3 @@
-URL: http://www.nytimes.com/2016/06/28/business/dealbook/rjr-nabisco-ruling-bolsters-justice-depts-pursuit-of-fifa.html
-
 The government may not always get what it wants from the Supreme Court, but federal prosecutors received exactly what they asked for last week when the justices decided in a case involving RJR Nabisco, the food and tobacco conglomerate, how far the Racketeer Influenced and Corrupt Organizations Act, or RICO, applies to foreign conduct.
 For the Justice Department, the ruling means that its pursuit of corruption inside FIFA, the organization that oversees international soccer, can move forward without any concern that the charges might not be a permissible use of federal law.
 RICO is a powerful weapon for bringing together in a single prosecution disparate acts that play out over an extended period. It allows prosecutors to largely avoid issues related to the statute of limitations, and it permits charging a number of defendants who may have only tenuous connections to one another but are part of a larger scheme.
