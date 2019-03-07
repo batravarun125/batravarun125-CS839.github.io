@@ -11,6 +11,7 @@ import os.path
 import re
 
 prefixes = ['Mr.', 'Mrs.', 'Dr.', 'Ms.', 'Sir.', 'Jr.', 'Sr.', 'Gen.', 'Gov.', 'Prof.']
+output_dir_path = os.path.dirname(os.path.abspath(__file__))+'/results/'
 
 def read_input():
     if(len(sys.argv)!=3):
@@ -104,4 +105,4 @@ def get_all_elements(dir_path):
 
 dir_path, type_of_split = read_input()
 df = get_all_elements(dir_path)
-df.to_csv("Tokenized"+type_of_split+".csv", sep = '_', index = False)
+df.to_csv(output_dir_path+"Tokenized"+type_of_split+".csv", sep = '_', index = False)

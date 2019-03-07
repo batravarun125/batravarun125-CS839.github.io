@@ -147,8 +147,7 @@ venv.bak/
 # IPython notebook
 *.ipynb
 
-# Results
-*results/
+
 
 # Datasets
 *datasets/
