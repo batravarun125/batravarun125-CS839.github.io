@@ -16,6 +16,7 @@ parser.add_argument('--countryFile', type=str, help = 'country file', default='.
 parser.add_argument('--prepositionsFile', type=str, help = 'prep file', default='../Copurs/prepositions.txt')
 parser.add_argument('--stopwordsFile', type=str, help='stopwords file', default='../Corpus/stopwords.txt')
 
+parser.add_argument('--outFile', type=str, help='outFile path', default='results/PreProcessed.csv')
 
 def readFile(file, lower=True):
     
@@ -30,16 +31,16 @@ if __name__ == '__main__':
 
     args = parser.parse_args()
     # only filter on `Tokens` col
-    #data = pd.read_csv(args.dataFile)
+    data = pd.read_csv(args.dataFile)
     #Create a DataFrame
-    d = {
-            'Tokens':['play','is','india','jack','raghu','Cathrine',
-                    'Alisa','Bobby','kum2ar','Alisa','Alex','Cathrine'],
-            'Age':[26,24,23,22,23,24,26,24,22,23,24,24],
-      
-            'Score':[85,63,55,74,31,77,85,63,42,62,89,77]}
+    #d = {
+    #        'Tokens':['play','is','india','jack','raghu','Cathrine',
+    #                'Alisa','Bobby','kum2ar','Alisa','Alex','Cathrine'],
+    #        'Age':[26,24,23,22,23,24,26,24,22,23,24,24],
+    #  
+    #        'Score':[85,63,55,74,31,77,85,63,42,62,89,77]}
  
-    data = pd.DataFrame(d,columns=['Tokens','Age','Score'])
+    #data = pd.DataFrame(d,columns=['Tokens','Age','Score'])
     
     totalRowsRemoved = 0
     
@@ -83,7 +84,5 @@ if __name__ == '__main__':
         
     
     print('TOTAL: {} rows removed'.format(totalRowsRemoved))
-    
-    pri
- #       print("Removing Stop Words")
 
+    data.to_csv(args.outFile, index=False)
