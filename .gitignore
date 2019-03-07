@@ -148,7 +148,7 @@ venv.bak/
 *.ipynb
 
 # Results
-*results/
+#*results/
 
 # Datasets
 *datasets/
