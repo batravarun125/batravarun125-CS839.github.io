@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
     print(metrics.classification_report(expected, predicted))
     print(metrics.confusion_matrix(expected, predicted))
-    
+
 
 
 

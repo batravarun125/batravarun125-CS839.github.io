@@ -13,7 +13,7 @@ parser.add_argument('--notRemoveDigits', action='store_true')
 parser.add_argument('--dataFile', type=str, help="data file")
 parser.add_argument('--verbFile', type=str, help='verbs ', default='../Corpus/verbs.txt')
 parser.add_argument('--countryFile', type=str, help = 'country file', default='../Corpus/countries.txt')
-parser.add_argument('--prepositionsFile', type=str, help = 'prep file', default='../Copurs/prepositions.txt')
+parser.add_argument('--prepositionsFile', type=str, help = 'prep file', default='../Corpus/prepositions.txt')
 parser.add_argument('--stopwordsFile', type=str, help='stopwords file', default='../Corpus/stopwords.txt')
 
 parser.add_argument('--outFile', type=str, help='outFile path', default='results/PreProcessed.csv')
