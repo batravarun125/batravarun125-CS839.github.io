@@ -33,7 +33,7 @@
 *.app
 
 
-# Python ignores
+# Python ignoules
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -151,8 +151,7 @@ venv.bak/
 
 =======
 # Results
-#*results/
->>>>>>> 930e07b20f4cbfe4e0bdfa2464d741a2541dfb6a
+
 
 # Datasets
 *datasets/

@@ -1,7 +1,7 @@
 import pandas as pd
 import string
 import sys
-df = pd.read_csv(sys.argv[1],delimiter='_')
+df = pd.read_csv(sys.argv[1],delimiter=',')
 var = "test"
 if sys.argv[1]=='preprocessed_data_train.csv':
     var="train"
