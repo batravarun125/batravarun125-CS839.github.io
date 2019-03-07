@@ -1,7 +1,7 @@
 import pandas as pd
 import string
 import sys
-df = pd.read_csv(sys.argv[1],delimiter=',')
+df = pd.read_csv(sys.argv[1],delimiter='_')
 var = "test"
 if sys.argv[1]=='preprocessed_data_train.csv':
     var="train"
@@ -60,7 +60,7 @@ if __name__ == '__main__':
 
 
     for j in range(len(df)):
-        sfile = open(df.loc[j]['filename'])
+        sfile = open('./data/raw/' + df.loc[j]['filename'][-7:])
         ls = sfile.read().split()
         start = df.loc[j]['start_ind']
         end = df.loc[j]['end_ind']
