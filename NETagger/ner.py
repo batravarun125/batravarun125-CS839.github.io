@@ -15,6 +15,7 @@ args = parser.parse_args()
 def createString(out):
 
     lastPerson = False
+    thisPerson = False
     textTillNow = ""
     for x in out:
         text = x[0]
